@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace MergeGrid.Runtime.Tasks.Core
+namespace MergeGrid.Tasks.Core
 {
     public class TaskProgress
     {
