@@ -1,6 +1,6 @@
-using MergeGrid.Runtime.Tasks.Core;
+using MergeGrid.Tasks.Core;
 
-namespace MergeGrid.Runtime.Tasks.Interfaces
+namespace MergeGrid.Tasks.Interfaces
 {
     public interface ITaskCondition
     {
