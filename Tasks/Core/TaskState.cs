@@ -1,4 +1,4 @@
-namespace MergeGrid.Runtime.Tasks.Core
+namespace MergeGrid.Tasks.Core
 {
     public enum TaskState
     {
