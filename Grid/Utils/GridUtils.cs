@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using MergeGrid.Core;
 
-namespace MergeGrid.Runtime.Utils
+namespace MergeGrid..Utils
 {
     public static class GridUtils
     {
