@@ -20,8 +20,6 @@ Task / Order System – Sample system for managing objectives and game events.
 
 These scripts are standalone and can be imported into a Unity project to explore and expand.
 
-## 🎥 Application Demo
+## 🎥 Demo Video
 
-Click the image below to watch the full demo:
-
-[![BPMS Demo](https://img.youtube.com/vi/abc123XYZ/0.jpg)](https://www.youtube.com/watch?v=EGK9uGeCOEQ)
+[![Watch Demo](https://img.youtube.com/vi/EGK9uGeCOEQ/0.jpg)](https://www.youtube.com/watch?v=EGK9uGeCOEQ)
