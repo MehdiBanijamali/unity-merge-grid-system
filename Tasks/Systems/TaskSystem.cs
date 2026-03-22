@@ -1,8 +1,8 @@
 using System.Collections.Generic;
-using MergeGrid.Runtime.Tasks.Core;
-using MergeGrid.Runtime.Tasks.Data;
+using MergeGrid.Tasks.Core;
+using MergeGrid.Tasks.Data;
 
-namespace MergeGrid.Runtime.Tasks.Systems
+namespace MergeGrid.Tasks.Systems
 {
     public class TaskSystem
     {
