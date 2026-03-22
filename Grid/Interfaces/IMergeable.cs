@@ -1,4 +1,4 @@
-namespace MergeGrid.Runtime.Interfaces
+namespace MergeGrid.Interfaces
 {
     public interface IMergeable
     {
