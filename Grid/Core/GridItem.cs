@@ -1,6 +1,6 @@
-using MergeGrid.Runtime.Interfaces;
+using MergeGrid.Interfaces;
 
-namespace MergeGrid.Runtime.Core
+namespace MergeGrid.Core
 {
     public class GridItem : IMergeable
     {
