@@ -1,6 +1,6 @@
 using System;
 
-namespace MergeGrid.Runtime.Core
+namespace MergeGrid.Core
 {
     public readonly struct GridPosition : IEquatable<GridPosition>
     {
