@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using MergeGrid.Runtime.Core;
+using MergeGrid.Core;
 
-namespace MergeGrid.Runtime.Merge
+namespace MergeGrid.Merge
 {
     public class MergeResult
     {
