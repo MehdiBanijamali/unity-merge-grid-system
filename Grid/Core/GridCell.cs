@@ -1,4 +1,4 @@
-namespace MergeGrid.Runtime.Core
+namespace MergeGrid.Core
 {
     public class GridCell
     {
