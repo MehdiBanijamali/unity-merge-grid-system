@@ -22,4 +22,4 @@ These scripts are standalone and can be imported into a Unity project to explore
 
 ## 🎥 Demo Video
 
-[![Watch Demo](https://img.youtube.com/vi/EGK9uGeCOEQ/0.jpg)](https://www.youtube.com/watch?v=EGK9uGeCOEQ)
+[![Watch Demo](https://img.youtube.com/vi/t92HA1zON9Y/0.jpg)](https://www.youtube.com/watch?v=t92HA1zON9Y)
