@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using MergeGrid.Runtime.Tasks.Core;
+using MergeGrid.Tasks.Core;
 
-namespace MergeGrid.Runtime.Tasks.Systems
+namespace MergeGrid.Tasks.Systems
 {
     public class TaskEvaluator
     {
