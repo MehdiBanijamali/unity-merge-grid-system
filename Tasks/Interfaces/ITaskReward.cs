@@ -1,4 +1,4 @@
-namespace MergeGrid.Runtime.Tasks.Interfaces
+namespace MergeGrid.Tasks.Interfaces
 {
     public interface ITaskReward
     {
