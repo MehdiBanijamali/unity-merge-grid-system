@@ -1,6 +1,6 @@
-using MergeGrid.Runtime.Tasks.Data;
+using MergeGrid.Tasks.Data;
 
-namespace MergeGrid.Runtime.Tasks.Core
+namespace MergeGrid.Tasks.Core
 {
     public class Task
     {
